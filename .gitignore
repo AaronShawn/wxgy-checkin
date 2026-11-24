@@ -1,0 +1,16 @@
+data.json
+data.json.tmp
+data.json.broken-*
+selfie.jpg
+selfie.png
+selfie.webp
+upload.tmp
+app.log
+app.log.1
+*.log
+node_modules/
+.DS_Store
+Thumbs.db
+
+# 便携版运行时只随 Release 附件分发，不入库
+runtime/
